@@ -1,0 +1,4 @@
+/* EVB placeholder */
+*{box-sizing:border-box}
+a{transition:opacity .2s ease}
+a:hover{opacity:.85}
